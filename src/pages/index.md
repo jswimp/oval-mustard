@@ -28,7 +28,7 @@ sections:
     image: "/images/Screen Shot 2019-11-14 at 5.07.12 PM.png"
   - title: Culture quotient
     text: 'Does the restaurant give off bike vibes? Pre or post ride rendezvous? '
-    image: images/pic03.jpg
+    image: "/images/Screen Shot 2019-11-14 at 5.10.10 PM.png"
   icons:
   - title: Ipsum lorem accumsan
     icon: fa-camera-retro
