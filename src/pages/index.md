@@ -1,5 +1,5 @@
 ---
-title: Home
+title: ByBike
 sections:
 - type: icons
   template: icons
