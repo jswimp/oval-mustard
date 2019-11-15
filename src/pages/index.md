@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: icons
   template: icons
-  title: 'For hungry cyclists, by hungry cyclists '
+  title: Food tastes better by bike - Albert Einstein
   section_id: one
   component: Icons
   background_style: style2
