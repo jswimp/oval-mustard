@@ -3,9 +3,7 @@ title: Home
 sections:
 - type: icons
   template: icons
-  title: |-
-    Sed ipsum magna lorem tempus amet
-    vehicula et gravida elementum
+  title: Safe Parking Indoors or Outdoors
   section_id: one
   component: Icons
   background_style: style2
