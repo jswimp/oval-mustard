@@ -23,11 +23,9 @@ sections:
   - title: Safe bike parking indoors and outdoors
     text: ByBike intelligently filters and recommends restaurants with safe bike parking
     image: "/images/Screen Shot 2019-11-14 at 3.06.05 PM.png"
-  - title: Ultrices nullam aliquam
-    text: Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit
-      fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet
-      leo non sapien iaculis efficitur consequat lorem ipsum.
-    image: images/pic02.jpg
+  - title: Close to bike route
+    text: Bikable restaurants are rated on their proximity to common bike routes
+    image: "/images/Screen Shot 2019-11-14 at 4.57.38 PM.png"
   - title: Aliquam sed magna
     text: Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit
       fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet
