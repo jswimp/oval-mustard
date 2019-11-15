@@ -27,8 +27,8 @@ sections:
     text: Bikable restaurants are rated on their proximity to common bike routes
     image: "/images/Screen Shot 2019-11-14 at 5.07.12 PM.png"
   - title: Culture quotient
-    text: 'Does the restaurant give off bike vibes? Pre or post ride rendezvous? '
-    image: "/images/Screen Shot 2019-11-14 at 5.10.10 PM.png"
+    text: Well known pre or post ride rendezvous?
+    image: "/images/Screen Shot 2019-11-14 at 3.11.14 PM.png"
   icons:
   - title: Ipsum lorem accumsan
     icon: fa-camera-retro
