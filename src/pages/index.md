@@ -26,10 +26,8 @@ sections:
   - title: Close to bike route
     text: Bikable restaurants are rated on their proximity to common bike routes
     image: "/images/Screen Shot 2019-11-14 at 4.57.38 PM.png"
-  - title: Aliquam sed magna
-    text: Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum elit
-      fusce accumsan dui libero, quis vehicula lectus ultricies eu. In convallis amet
-      leo non sapien iaculis efficitur consequat lorem ipsum.
+  - title: Culture quotient
+    text: 'Does the restaurant give off bike vibes? Pre or post ride rendezvous? '
     image: images/pic03.jpg
   icons:
   - title: Ipsum lorem accumsan
