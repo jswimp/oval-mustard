@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: icons
   template: icons
-  title: Safe Parking Indoors or Outdoors
+  title: Not sure what to put here
   section_id: one
   component: Icons
   background_style: style2
