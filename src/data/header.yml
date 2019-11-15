@@ -1,6 +1,6 @@
 ---
 title_url: "#"
-subtitle: Quickly find bikeable restaurants, cafes, and coffee shops. 
+subtitle: Quickly find bikeable restaurants, cafes, and coffee shops.
 actions:
 - label: Download
   icon: fa-download
@@ -13,5 +13,5 @@ actions:
   is_primary: false
   is_scrolly: true
 img:
-  path: "/images/Screen Shot 2019-11-14 at 3.11.14 PM.png"
+  path: "/images/Screen Shot 2019-11-14 at 5.24.37 PM.png"
   phone_border: true
