@@ -23,7 +23,7 @@ sections:
   - title: Safe bike parking indoors and outdoors
     text: ByBike intelligently filters and recommends restaurants with safe bike parking
     image: "/images/Screen Shot 2019-11-14 at 3.06.05 PM.png"
-  - title: Close to bike route
+  - title: Bike route proximity
     text: Bikable restaurants are rated on their proximity to common bike routes
     image: "/images/Screen Shot 2019-11-14 at 5.07.12 PM.png"
   - title: Culture quotient
