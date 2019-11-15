@@ -1,5 +1,5 @@
 ---
-title: ByBike
+title: ByBike | Restaurants for Cyclists
 sections:
 - type: icons
   template: icons
