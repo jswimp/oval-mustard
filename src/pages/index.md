@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: icons
   template: icons
-  title: Not sure what to put here
+  title: 'For hungry cyclists, by hungry cyclists '
   section_id: one
   component: Icons
   background_style: style2
